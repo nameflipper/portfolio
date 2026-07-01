@@ -254,7 +254,7 @@ export default function WhiteDomainPortfolio() {
               </p>
               <div className="mt-9 flex flex-col gap-4 sm:flex-row">
                 <a
-                  href="mailto:werowix@outlook.com?subject=Domain%20Portfolio%20Offer"
+                  href="https://www.atom.com/User/3227175"
                   className="group inline-flex items-center justify-center gap-3 bg-slate-950 px-7 py-4 text-sm font-bold uppercase tracking-[0.22em] text-white shadow-[0_0_32px_rgba(15,23,42,.18)] transition hover:bg-sky-500"
                 >
                   Make Portfolio Offer
