@@ -82,7 +82,7 @@ export default function WhiteDomainPortfolio() {
   const featured = useMemo(
     () =>
       domains.filter((domain) =>
-        ["HACKCLAW.COM", "FSOCIETE.COM", "XDERO.COM"].includes(domain.name)
+        ["HACKCLAW.COM", "FSOCIETE.COM", "XDERO.COM", "MUFTARIS.COM",].includes(domain.name)
       ),
     []
   );
